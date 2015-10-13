@@ -2,6 +2,12 @@ Dexcam - An hourly tweeting photo app for Raspberry Pi
 
 # Dexcam
 
+You will need:
+
+1. A Raspberry Pi
+2. Rasperry Pi camera
+3. Ideally a wireless power and internet source hooked up to the Pi.
+
 Setup instructions:
 
 1. Setup Tweepy: https://github.com/tweepy/tweepy
